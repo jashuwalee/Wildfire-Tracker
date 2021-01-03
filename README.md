@@ -1,4 +1,4 @@
-[](Gitpicture.png)
+[](/Gitpicture.png)
 
 
 # Getting Started with Create React App
